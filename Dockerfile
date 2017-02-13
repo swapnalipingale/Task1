@@ -1,3 +1,3 @@
 FROM tomcat:8-jre8
-MAINTAINER "Swapnali"
+MAINTAINER "yeole.swapnali@gmail.com"
 ADD sample.war /usr/local/tomcat/webapps/
